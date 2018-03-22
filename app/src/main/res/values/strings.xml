@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="instructions">Press the button for a delicious joke!</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="button_text_my_joke_java_library">Tell My Joke App By Lib Java</string>
+    <string name="button_text_my_joke_by_google_cloud">Tell My Joke App By Google Cloud</string>
+    <string name="no_data_found">No data found.</string>
+    <string name="please_wait">Please wait...</string>
+</resources>
